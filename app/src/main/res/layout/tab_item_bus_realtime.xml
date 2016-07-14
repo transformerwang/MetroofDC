@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="60dp"
+    android:background="@drawable/recyclerview_station_item_border"
+    android:padding="5dp"
+    android:gravity="center"
+    android:elevation="2dp"
+    android:layout_margin="5dp"
+    >
+    <TextView
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_route_id"
+        android:text="10A"
+        android:textSize="@dimen/txt_bus_route"
+        android:layout_marginRight="@dimen/txt_route_margin"
+        android:gravity="right"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="@dimen/txt_bus_name"
+        android:text="North to Ballston"
+        android:id="@+id/text_bus_direction"
+        android:singleLine="true"
+        android:layout_weight="1"
+        />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:textSize="@dimen/txt_bus_route"
+        android:text="12 minutes"
+        android:id="@+id/txt_bus_time"
+        />
+</LinearLayout>

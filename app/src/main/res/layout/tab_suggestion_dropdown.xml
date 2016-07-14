@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_drop"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:background="@drawable/recyclerview_item_border"
+    android:textColor="@android:color/black"
+    android:gravity="center_vertical"
+    android:paddingLeft="25dp"
+    android:textSize="15sp"
+    android:ellipsize="marquee" />

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@drawable/recyclerview_item_bus_border"
+    android:id="@+id/relative_bus"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_stop_name"
+        android:text="GREENBELT STATION + BUS BAY"
+        android:singleLine="true"
+        android:textSize="18sp"
+        android:layout_marginRight="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_stop_dis"
+        android:text="Approx Distance: 0.20 miles"
+        android:singleLine="true"
+        android:textSize="12sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_stop_id"
+        android:text="Stop Id:3003037"
+        android:singleLine="true"
+        android:textSize="12sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_stop_route"
+        android:text="Route: 10A"
+        android:singleLine="false"
+        android:textSize="12sp"
+        />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_direction"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:scaleType="centerInside"
+        android:id="@+id/img_bus_near"
+        />
+</LinearLayout>

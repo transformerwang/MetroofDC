@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43A047</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="colorTabText">#9E9E9E</color>
+
+    <color name="grey">#5e5e5e</color>
+    <color name="darkwhite">#ECEFF1</color>
+    <color name="blue">#3F51B5</color>
+
+    <color name="colorBackground_main">#dcdde2</color>
+    <color name="border">#BDBDBD</color>
+    <color name="white">#ffffff</color>
+
+    <color name="green">#43A047</color>
+</resources>

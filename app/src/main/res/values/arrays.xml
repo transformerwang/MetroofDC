@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations">
+        <item>10A\t\tHunting Point-Pentagon Line</item>
+        <item>10B\t\tHunting Point-Ballston Line</item>
+        <item>10E\t\tHunting Point-Pentagon Line</item>
+        <item>10R\t\tHunting Point-Pentagon Line</item>
+        <item>10S\t\tHunting Point-Pentagon Line</item>
+        <item>11Y\t\tMt Vernon Express Line</item>
+        <item>13Y\t\tArlington-Union Station Line</item>
+        <item>15K\t\tChain Bridge Road Line</item>
+        <item>15L\t\tChain Bridge Road Line</item>
+        <item>15M\t\tGeorge Mason University-Tysons Corner Line</item>
+        <item>16A\t\tColumbia Pike Line</item>
+        <item>16B\t\tColumbia Pike Line</item>
+        <item>16E\t\tColumbia Pike Line</item>
+        <item>16G\t\tColumbia Heights West - Pentagon City Line</item>
+        <item>16J\t\tColumbia Pike Line</item>
+        <item>16K\t\tColumbia Heights West - Pentagon City Line</item>
+        <item>16L\t\tAnnandale-Skyline City-Pentagon Line</item>
+        <item>16P\t\tColumbia Pike Line</item>
+        <item>16X\t\tColumbia Pike-Federal Triangle Line</item>
+        <item>16Y\t\tColumbia Pike-Farragut Square Line</item>
+        <item>17A\t\tKings Park Line</item>
+        <item>17B\t\tKings Park Line</item>
+        <item>17F\t\tKings Park Line</item>
+        <item>17G\t\tKings Park Express Line</item>
+        <item>17H\t\tKings Park Express Line</item>
+        <item>17K\t\tKings Park Express Line</item>
+        <item>17L\t\tKings Park Express Line</item>
+        <item>17M\t\tKings Park Line</item>
+        <item>18E\t\tSpringfield Line</item>
+        <item>18F\t\tSpringfield Line</item>
+        <item>18G\t\tOrange Hunt Line</item>
+        <item>18H\t\tOrange Hunt Line</item>
+        <item>18J\t\tOrange Hunt Line</item>
+        <item>18P\t\tBurke Centre Line</item>
+        <item>18R\t\tBurke Centre Line</item>
+        <item>18S\t\tBurke Centre Line</item>
+        <item>1A\t\tWilson Blvd Line</item>
+        <item>1B\t\tWilson Blvd Line</item>
+        <item>1C\t\tFair Oaks-Dunn Loring Line</item>
+        <item>1E\t\tWilson Blvd Line</item>
+        <item>1Z\t\tWilson Blvd Line</item>
+        <item>21A\t\tLandmark-Pentagon Line</item>
+        <item>21D\t\tLandmark-Pentagon Line</item>
+        <item>22A\t\tBarcroft-South Fairlington Line</item>
+        <item>22B\t\tBarcroft-South Fairlington Line</item>
+        <item>22C\t\tBarcroft-South Fairlington Line</item>
+        <item>22F\t\tBarcroft-South Fairlington Line</item>
+        <item>23A\t\tMcLean-Crystal City Line</item>
+        <item>23B\t\tMcLean-Crystal City Line</item>
+        <item>23T\t\tMcLean-Crystal City Line</item>
+        <item>25B\t\tLandmark-Ballston Line</item>
+        <item>26A\t\tAnnandale-East Falls Church Line</item>
+        <item>28A\t\tLeesburg Pike Line</item>
+        <item>28F\t\tSkyline City Line</item>
+        <item>28G\t\tSkyline City Line</item>
+        <item>28X\t\tLeesburg Pike Limited Line</item>
+        <item>29C\t\tAnnandale Line</item>
+        <item>29G\t\tAnnandale Line</item>
+        <item>29K\t\tAlexandria-Fairfax Line</item>
+        <item>29N\t\tAlexandria-Fairfax Line</item>
+        <item>29W\t\tBraeburn Drive-Pentagon Express Line</item>
+        <item>2A\t\tWashington Blvd.-Dunn Loring Line</item>
+        <item>2B\t\tFair Oaks-Jermantown Road Line</item>
+        <item>2T\t\tTysons Corner-Dunn Loring Line</item>
+        <item>30N\t\tFriendship Heights-Southeast Line</item>
+        <item>30S\t\tFriendship Heights-Southeast Line</item>
+        <item>31\t\tWisconsin Avenue Line</item>
+        <item>32\t\tPennsylvania Avenue Line</item>
+        <item>33\t\tWisconsin Avenue Line</item>
+        <item>34\t\tPennsylvania Avenue Line</item>
+        <item>36\t\tPennsylvania Avenue Line</item>
+        <item>37\t\tWisconsin Avenue Limited Line</item>
+        <item>38B\t\tBallston-Farragut Square Line</item>
+        <item>39\t\tPennsylvania Avenue Limited Line</item>
+        <item>3A\t\tAnnandale Road Line</item>
+        <item>3T\t\tPimmit Hills Line</item>
+        <item>3Y\t\tLee Highway-Farragut Square Line</item>
+        <item>42\t\tMount Pleasant Line</item>
+        <item>43\t\tMount Pleasant Line</item>
+        <item>4A\t\tPershing Dr.-Arlington Blvd. Line</item>
+        <item>4B\t\tPershing Dr.-Arlington Blvd. Line</item>
+        <item>52\t\t14th Street Line</item>
+        <item>53\t\t14th Street Line</item>
+        <item>54\t\t14th Street Line</item>
+        <item>5A\t\tDC-Dulles Line</item>
+        <item>60\t\tFort Totten-Petworth Line</item>
+        <item>62\t\tTakoma-Petworth Line</item>
+        <item>63\t\tTakoma-Petworth Line</item>
+        <item>64\t\tFort Totten-Petworth Line</item>
+        <item>70\t\tGeorgia Avenue-7th Street Line</item>
+        <item>74\t\tConvention Center-Southwest Waterfront Line</item>
+        <item>79\t\tGeorgia Avenue MetroExtra Line</item>
+        <item>7A\t\tLincolnia-North Fairlington Line</item>
+        <item>7C\t\tLincolnia-Park Center-Pentagon Line</item>
+        <item>7F\t\tLincolnia-North Fairlington Line</item>
+        <item>7M\t\tMark Center-Pentagon Line</item>
+        <item>7P\t\tLincolnia-Park Center-Pentagon Line</item>
+        <item>7W\t\tLincolnia-Park Center-Pentagon Line</item>
+        <item>7X\t\tLincolnia-Park Center-Pentagon Line</item>
+        <item>7Y\t\tLincolnia-North Fairlington Line</item>
+        <item>80\t\tNorth Capitol Street Line</item>
+        <item>82\t\tCollege Park Line</item>
+        <item>83\t\tCollege Park Line</item>
+        <item>86\t\tCollege Park Line</item>
+        <item>87\t\tLaurel Express Line</item>
+        <item>89\t\tLaurel Line</item>
+        <item>89M\t\tLaurel Line</item>
+        <item>8S\t\tFoxchase-Seminary Valley Line</item>
+        <item>8W\t\tFoxchase-Seminary Valley Line</item>
+        <item>8Z\t\tFoxchase-Seminary Valley Line</item>
+        <item>90\t\tU Street-Garfield Line</item>
+        <item>92\t\tU Street-Garfield Line</item>
+        <item>94\t\tStanton Road Line</item>
+        <item>96\t\tEast Capitol Street-Cardozo Line</item>
+        <item>97\t\tEast Capitol Street-Cardozo Line</item>
+        <item>9A\t\tHuntington-Pentagon Line</item>
+        <item>A12\t\tMartin Luther King Jr Highway Line</item>
+        <item>A2\t\tAnacostia-Congress Heights Line</item>
+        <item>A31\t\tAnacostia High School Line</item>
+        <item>A32\t\tAnacostia High School Line</item>
+        <item>A33\t\tAnacostia High School Line</item>
+        <item>A4\t\tAnacostia-Fort Drum Line</item>
+        <item>A42\t\tAnacostia-Congress Heights Line</item>
+        <item>A46\t\tAnacostia-Congress Heights Line</item>
+        <item>A48\t\tAnacostia-Congress Heights Line</item>
+        <item>A6\t\tAnacostia-Congress Heights Line</item>
+        <item>A7\t\tAnacostia-Congress Heights Line</item>
+        <item>A8\t\tAnacostia-Congress Heights Line</item>
+        <item>A9\t\tMartin Luther King Jr Ave MetroExtra Line</item>
+        <item>B2\t\tBladensburg Road-Anacostia Line</item>
+        <item>B21\t\tBowie State University Line</item>
+        <item>B22\t\tBowie State University Line</item>
+        <item>B24\t\tBowie-Belair Line</item>
+        <item>B27\t\tBowie-New Carrollton Line</item>
+        <item>B29\t\tCrofton-New Carrollton Line</item>
+        <item>B30\t\tGreenbelt-BWI Airport Line</item>
+        <item>B31\t\tCrofton-New Carrollton Line</item>
+        <item>B51\t\tBrookland and Bunker Hill School Line</item>
+        <item>B8\t\tFort Lincoln Shuttle Line</item>
+        <item>B9\t\tFort Lincoln Shuttle Line</item>
+        <item>C11\t\tClinton Line</item>
+        <item>C12\t\tHillcrest Heights Line</item>
+        <item>C13\t\tClinton Line</item>
+        <item>C14\t\tHillcrest Heights Line</item>
+        <item>C2\t\tGreenbelt-Twinbrook Line</item>
+        <item>C21\t\tCentral Avenue Line</item>
+        <item>C22\t\tCentral Avenue Line</item>
+        <item>C26\t\tCentral Avenue Line</item>
+        <item>C27\t\tCentral Avenue Line Supplemental Service</item>
+        <item>C28\t\tPointer Ridge Line</item>
+        <item>C4\t\tGreenbelt-Twinbrook Line</item>
+        <item>C40\t\tCapitol Hill Cluster Line</item>
+        <item>C8\t\tCollege Park - White Flint Line</item>
+        <item>D1\t\tGlover Park-Federal Triangle Line</item>
+        <item>D12\t\tOxon Hill-Suitland Line</item>
+        <item>D13\t\tOxon Hill-Suitland Line</item>
+        <item>D14\t\tOxon Hill-Suitland Line</item>
+        <item>D2\t\tGlover Park-Dupont Circle Line</item>
+        <item>D3\t\tIvy City-Dupont Circle Line</item>
+        <item>D31\t\tDeal Junior High School Line</item>
+        <item>D32\t\tDeal Junior High School Line</item>
+        <item>D33\t\tDeal Junior High School Line</item>
+        <item>D34\t\tDeal Junior High School Line</item>
+        <item>D4\t\tIvy City-Franklin Square Line</item>
+        <item>D5\t\tMacArthur Blvd-Georgetown Line</item>
+        <item>D51\t\tDuke Ellington School of Arts Line</item>
+        <item>D6\t\tSibley Hospital–Stadium-Armory Line</item>
+        <item>D8\t\tHospital Center Line</item>
+        <item>E2\t\tIvy City-Fort Totten Line</item>
+        <item>E32\t\tEastern High School Line</item>
+        <item>E4\t\tMilitary Road-Crosstown Line</item>
+        <item>E6\t\tChevy Chase Line</item>
+        <item>F1\t\tChillum Road Line</item>
+        <item>F12\t\tArdwick Industrial Park Shuttle Line</item>
+        <item>F13\t\tCheverly-Washington Business Park Line</item>
+        <item>F14\t\tSheriff Road-Capitol Heights Line</item>
+        <item>F2\t\tChillum Road Line</item>
+        <item>F4\t\tNew Carrollton-Silver Spring Line</item>
+        <item>F6\t\tNew Carrollton-Fort Totten Line</item>
+        <item>F8\t\tLangley Park-Cheverly Line</item>
+        <item>G12\t\tGreenbelt-New Carrollton Line</item>
+        <item>G14\t\tGreenbelt-New Carrollton Line</item>
+        <item>G2\t\tP Street-LeDroit Park Line</item>
+        <item>G8\t\tRhode Island Avenue Line</item>
+        <item>H1\t\tBrookland-Potomac Park Line</item>
+        <item>H11\t\tMarlow Heights-Temple Hills Line</item>
+        <item>H12\t\tMarlow Heights-Temple Hills Line</item>
+        <item>H13\t\tMarlow Heights-Temple Hills Line</item>
+        <item>H2\t\tCrosstown Line</item>
+        <item>H3\t\tCrosstown Line</item>
+        <item>H4\t\tCrosstown Line</item>
+        <item>H6\t\tBrookland-Fort Lincoln Line</item>
+        <item>H8\t\tPark Road-Brookland Line</item>
+        <item>H9\t\tPark Road-Brookland Line</item>
+        <item>J1\t\tBethesda-Silver Spring Line</item>
+        <item>J11\t\tMarlboro Pike Line</item>
+        <item>J12\t\tMarlboro Pike Line</item>
+        <item>J13\t\tMarlboro Pike Line</item>
+        <item>J2\t\tBethesda-Silver Spring Line</item>
+        <item>J3\t\tBethesda-Silver Spring Line</item>
+        <item>J4\t\tCollege Park-Bethesda Limited</item>
+        <item>J5\t\tTwinbrook-Silver Spring Line</item>
+        <item>J7\t\tI-270 Express Line</item>
+        <item>J9\t\tI-270 Express Line</item>
+        <item>K11\t\tForestville Line</item>
+        <item>K12\t\tForestville Line</item>
+        <item>K13\t\tForestville Line</item>
+        <item>K2\t\tTakoma-Fort Totten Line</item>
+        <item>K6\t\tNew Hampshire Ave-Maryland Line</item>
+        <item>K9New Hampshire Ave-Maryland Limited Line</item>
+        <item>L1\t\tConnecticut Ave Line</item>
+        <item>L2\t\tConnecticut Ave Line</item>
+        <item>L8\t\tConnecticut Ave-Maryland Line</item>
+        <item>M31\t\tMcKinley High School Line</item>
+        <item>M4\t\tNebraska Ave Line</item>
+        <item>M6\t\tFairfax Village Line</item>
+        <item>MW1\t\tPotomac Yard Line</item>
+        <item>N2\t\tMassachusetts Ave Line</item>
+        <item>N3\t\tMassachusetts Ave Line</item>
+        <item>N4\t\tMassachusetts Ave Line</item>
+        <item>N6\t\tMassachusetts Ave Line</item>
+        <item>NH1\t\tNational Harbor Line</item>
+        <item>P12\t\tEastover-Addison Road Line</item>
+        <item>P17\t\tOxon Hill-Fort Washington Line</item>
+        <item>P18\t\tOxon Hill-Fort Washington Line</item>
+        <item>P19\t\tOxon Hill-Fort Washington Line</item>
+        <item>P6\t\tAnacostia-Eckington Line</item>
+        <item>Q1\t\tVeirs Mill Road Line</item>
+        <item>Q2\t\tVeirs Mill Road Line</item>
+        <item>Q4\t\tVeirs Mill Road Line</item>
+        <item>Q5\t\tVeirs Mill Road Line</item>
+        <item>Q6\t\tVeirs Mill Road Line</item>
+        <item>R1\t\tRiggs Road Line</item>
+        <item>R12\t\tKenilworth Avenue Line</item>
+        <item>R2\t\tRiggs Road Line</item>
+        <item>R4\t\tQueens Chapel Road Line</item>
+        <item>REX\t\tRichmond Highway Express</item>
+        <item>S1\t\t16th Street-Potomac Park Line</item>
+        <item>S2\t\t16th Street Line</item>
+        <item>S35\t\tSousa Middle School Line</item>
+        <item>S4\t\t16th Street Line</item>
+        <item>S41\t\tPhelps High School Line</item>
+        <item>S80\t\tSpringfield Circulator-Metro Park Shuttle (TAGS)</item>
+        <item>S9\t\t16th Street MetroExtra Line</item>
+        <item>S91\t\tSpringfield Circulator-Metro Park Shuttle (TAGS)</item>
+        <item>T14\t\tRhode Island Ave-New Carrollton Line</item>
+        <item>T18\t\tAnnapolis Road Line</item>
+        <item>T2\t\tRiver Road Line</item>
+        <item>U4\t\tSheriff Road-River Terrace Line</item>
+        <item>U5\t\tMayfair-Marshall Heights Line</item>
+        <item>U6\t\tMayfair-Marshall Heights Line</item>
+        <item>U7\t\tDeanwood-Minnesota Ave Station Line</item>
+        <item>U8\t\tCapitol Heights-Benning Hts Line</item>
+        <item>V1\t\tBenning Heights-M Street Line</item>
+        <item>V12\t\tDistrict Heights-Suitland Line</item>
+        <item>V14\t\tDistrict Heights - Seat Pleasant Line</item>
+        <item>V2\t\tCapitol Heights-Minnesota Avenue Line</item>
+        <item>V4\t\tCapitol Heights-Minnesota Avenue Line</item>
+        <item>V5\t\tFairfax Village-L\'Enfant Plaza Line</item>
+        <item>W1\t\tShipley Terrace - Fort Drum Line</item>
+        <item>W13\t\tBock Road Line</item>
+        <item>W14\t\tBock Road Line</item>
+        <item>W19\t\tIndian Head Express Line</item>
+        <item>W2\t\tUnited Medical Center-Anacostia Line</item>
+        <item>W3\t\tUnited Medical Center-Anacostia Line</item>
+        <item>W4\t\tDeanwood-Alabama Ave. Line</item>
+        <item>W45\t\tWilson High School Line</item>
+        <item>W47\t\tWilson High School Line</item>
+        <item>W5\t\tAnacostia-Fort Drum Line</item>
+        <item>W6\t\tGarfield-Anacostia Loop Line</item>
+        <item>W8\t\tGarfield-Anacostia Loop Line</item>
+        <item>W9\t\tL\'Enfant Plaza – Coast Guard Limited Line</item>
+        <item>X1\t\tBenning Road Line</item>
+        <item>X2\t\tBenning Road-H Street Line</item>
+        <item>X3\t\tBenning Road Line</item>
+        <item>X8\t\tMaryland Ave Line</item>
+        <item>X9\t\tBenning Road-H Street Limited</item>
+        <item>Y2\t\tGeorgia Ave-Maryland Line</item>
+        <item>Y7\t\tGeorgia Ave-Maryland Line</item>
+        <item>Y8\t\tGeorgia Ave-Maryland Line</item>
+        <item>Z11\t\tGreencastle-Briggs Chaney Express Line</item>
+        <item>Z6\t\tCalverton-Westfarm Line</item>
+        <item>Z7\t\tLaurel-Burtonsville Express Line</item>
+        <item>Z8\t\tFairland Line</item>
+
+    </string-array>
+
+
+    <string-array name="train">
+        <item>Franconia-Springfield*BL*J03*38.766129,-77.168797</item> 
+        <item>Van Dorn Street*BL*J02*38.799193,-77.129407</item>
+         <item>King St-Old Town*BL,YL*C13*38.806474,-77.061115</item>
+         <item>Braddock Road*BL,YL*C12*38.814009,-77.053763</item> 
+        <item>National Airport*BL,YL*C10*38.852985,-77.043805</item> 
+        <item>Crystal City*BL,YL*C09*38.85779,-77.050589</item>
+         <item>Pentagon City*BL,YL*C08*38.863045,-77.059507</item>
+         <item>Pentagon*BL,YL*C07*38.869349,-77.054013</item> 
+        <item>Arlington Cemetery*BL*C06*38.884574,-77.063108</item>
+         <item>Rosslyn*BL,OR,SV*C05*38.896595,-77.07146</item>
+         <item>Foggy Bottom-GWU*BL,OR,SV*C04*38.900599,-77.050273</item>
+         <item>Farragut West*BL,OR,SV*C03*38.901311,-77.03981</item>
+         <item>McPherson Square*BL,OR,SV*C02*38.901316,-77.033652</item>
+         <item>Metro Center*BL,OR,SV,RD*C01,A01*38.898303,-77.028099</item>
+         <item>Federal Triangle*BL,OR,SV*D01*38.893757,-77.028218</item> 
+        <item>Smithsonian*BL,OR,SV*D02*38.888022,-77.028232</item>
+         <item>L\'Enfant Plaza*BL,OR,SV,YL,GR*D03,F03*38.884775,-77.021964</item> 
+        <item>Federal CenterSW*BL,OR,SV*D04*38.884958,-77.01586</item> 
+        <item>Capitol South*BL,OR,SV*D05*38.884968,-77.005137</item>
+         <item>Eastern Market*BL,OR,SV*D06*38.884124,-76.995334</item> 
+        <item>Potomac Ave*BL,OR,SV*D07*38.880841,-76.985721</item> 
+        <item>Stadium-Armory*BL,OR,SV*D08*38.88594,-76.977485</item> 
+        <item>Benning Road*BL,SV*G01*38.890488,-76.938291</item> 
+        <item>Capitol Heights*BL,SV*G02*38.889757,-76.913382</item>
+         <item>Addison Road-Seat Pleasant*BL,SV*G03*38.886713,-76.893592</item>
+         <item>Morgan Boulevard*BL,SV*G04*38.8913,-76.8682</item> 
+        <item>Largo Town Center*BL,SV*G05*38.9008,-76.8449</item>
+         <item>Branch Ave*GR*F11*38.826995,-76.912134</item> 
+        <item>Suitland*GR*F10*38.843891,-76.932022</item>
+         <item>Naylor Road*GR*F09*38.851187,-76.956565</item>
+         <item>Southern Ave*GR*F08*38.840974,-76.97536</item>
+         <item>Congress Heights*GR*F07*38.845334,-76.98817</item>
+         <item>Anacostia*GR*F06*38.862072,-76.995648</item> 
+        <item>Navy Yard-Ballpark*GR*F05*38.876588,-77.005086</item>
+         <item>Waterfront*GR*F04*38.876221,-77.017491</item>
+         <item>Archives*GR,YL*F02*38.893893,-77.021902</item> 
+        <item>Gallery Pl-Chinatown*GR,YL,RD*F01,B01*38.89834,-77.021851</item>
+         <item>Mt Vernon*GR,YL*E01*38.905604,-77.022256</item> 
+        <item>Shaw-Howard U*GR,YL*E02*38.912919,-77.022194</item>
+         <item>U Street*GR,YL*E03*38.916489,-77.028938</item> 
+        <item>Columbia Heights*GR,YL*E04*38.928672,-77.032775</item>
+         <item>Georgia Ave-Petworth*GR,YL*E05*38.936077,-77.024728</item>
+         <item>Fort Totten*GR,YL,RD*E06,B06*38.951777,-77.002174</item>
+         <item>West Hyattsville*GR*E07*38.954931,-76.969881</item> 
+        <item>Prince George\'s Plaza*GR*E08*38.965276,-76.956182</item>
+         <item>College Park-U of MD*GR*E09*38.978523,-76.928432</item>
+         <item>Greenbelt*GR*E10*39.011036,-76.911362</item> 
+        <item>Vienna/Fairfax-GMU*OR*K08*38.877693,-77.271562</item>
+         <item>Dunn Loring-Merrifield*OR*K07*38.883015,-77.228939</item> 
+        <item>West Falls Church-VT/UVA*OR*K06*38.90067,-77.189394</item>
+         <item>East Falls Church*OR,SV*K05*38.885841,-77.157177</item>
+         <item>Ballston-MU*OR,SV*K04*38.882071,-77.111845</item>
+         <item>Virginia Square-GMU*OR,SV*K03*38.88331,-77.104267</item>
+         <item>Clarendon*OR,SV*K02*38.886373,-77.096963</item> 
+        <item>Court House*OR,SV*K01*38.891499,-77.08391</item> 
+        <item>Minnesota Ave*OR*D09*38.898284,-76.948042</item> 
+        <item>Deanwood*OR*D10*38.907734,-76.936177</item> 
+        <item>Cheverly*OR*D11*38.91652,-76.915427</item> 
+        <item>Landover*OR*D12*38.934411,-76.890988</item> 
+        <item>New Carrollton*OR*D13*38.947674,-76.872144</item>
+         <item>Shady Grove*RD*A15*39.119819,-77.164921</item> 
+        <item>Rockville*RD*A14*39.084215,-77.146424</item>
+         <item>Twinbrook*RD*A13*39.062359,-77.121113</item>
+         <item>White Flint*RD*A12*39.048043,-77.113131</item> 
+        <item>Grosvenor-Strathmore*RD*A11*39.029158,-77.10415</item>
+         <item>Medical Center*RD*A10*38.999947,-77.097253</item> 
+        <item>Bethesda*RD*A09*38.984282,-77.094431</item> 
+        <item>Friendship Heights*RD*A08*38.960744,-77.085969</item>
+         <item>Tenleytown-AU*RD*A07*38.947808,-77.079615</item> 
+        <item>Van Ness-UDC*RD*A06*38.94362,-77.063511</item>
+         <item>Cleveland Park*RD*A05*38.934703,-77.058226</item> 
+        <item>Woodley Park*RD*A04*38.924999,-77.052648</item> 
+        <item>Dupont Circle*RD*A03*38.909499,-77.04362</item>
+         <item>Farragut North*RD*A02*38.903192,-77.039766</item> 
+        <item>Judiciary Square*RD*B02*38.896084,-77.016643</item> 
+        <item>Union Station*RD*B03*38.897723,-77.006745</item>
+         <item>NoMa-Gallaudet U*RD*B35*38.907407,-77.002961</item>
+         <item>Rhode Island Ave*RD*B04*38.920741,-76.995984</item> 
+        <item>Brookland-CUA*RD*B05*38.933234,-76.994544</item>
+         <item>Takoma*RD*B07*38.975532,-77.017834</item> 
+        <item>Silver Spring*RD*B08*38.993841,-77.031321</item>
+         <item>Forest Glen*RD*B09*39.015413,-77.042953</item> 
+        <item>Wheaton*RD*B10*39.038558,-77.051098</item> 
+        <item>Glenmont*RD*B11*39.061713,-77.05341</item>
+         <item>Wiehle-Reston East*SV*N06*38.947753,-77.340179</item>
+         <item>Spring Hill*SV*N04*38.92902,-77.24178</item>
+         <item>Greensboro*SV*N03*38.919749,-77.235192</item> 
+        <item>Tysons Corner*SV*N02*38.920056,-77.223314</item>
+         <item>McLean*SV*N01*38.924478,-77.210167</item> 
+        <item>Huntington*YL*C15*38.793841,-77.075301</item> 
+        <item>Eisenhower Avenue*YL*C14*38.800313,-77.071173</item>
+    </string-array>
+
+</resources>
